@@ -1,0 +1,16 @@
+{
+  "Gemfile": "0e74a7a0696cbc7293c905adc3958535",
+  "LICENSE": "3f53caacc709027c797540bb2023ceae",
+  "README.md": "4ef2f6276e8ce677efa4d7aec28c3131",
+  "Rakefile": "8ee667025ed2392b133b92f1ef1311cd",
+  "manifests/init.pp": "16bffd6bb626a2a3cde484f84fb33cab",
+  "manifests/package.pp": "173cea74fe2307c292e58a42bbd49b6a",
+  "manifests/params.pp": "6f580c5c938d6848f9d47a6ea4a0480b",
+  "manifests/pool.pp": "537be4bcf7fc7b7caacb7675085c9d42",
+  "manifests/service.pp": "415e9d984122440476fd42ff90256c16",
+  "metadata.json": "a1d19dc8b75fc3146fd8dbf29037c7a9",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "templates/php-fpm.conf.erb": "2ee929949f1dddc0337d7113c0b47c3a",
+  "templates/pool.conf.erb": "0272855f2a729e6109b364b80a39430f",
+  "tests/init.pp": "286787a290ce85951d431dedc256876e"
+}
